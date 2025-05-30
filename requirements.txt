@@ -61,7 +61,7 @@ ml-dtypes==0.4.0
 mongoengine==0.27.0
 multiprocess==0.70.17
 mysql-connector-python==8.1.0
-mysqlclient==2.2.7
+pymysql==2.2.7
 namex==0.0.8
 numpy==1.26.2
 oauthlib==3.2.2
